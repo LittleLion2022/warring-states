@@ -51,7 +51,7 @@
 		"neutralHello": "",
 		"hateHello": "",
 		"tradeRequest": "",
-		"cities":["Yueyang","Yongcheng","Xianyang","Longxi","Shangluo","Hangu","Nanzheng"]
+		"cities":["Xianyang","Yueyang","Yongcheng","Longxi","Shangluo","Hangu","Nanzheng"]
 	},
 	{
 		"name": "State Zhao",
